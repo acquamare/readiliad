@@ -1,0 +1,15 @@
+{
+  "name": "readiliad",
+  "description": "read Iliad by Homer, tr. George Chapman.",
+  "version": "0.0.1",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.0"
+  },
+  "licenses": [
+    {
+      "name": "MIT"
+    }
+  ]
+}
